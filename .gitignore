@@ -129,6 +129,4 @@ dmypy.json
 .pyre/
 
 # Large files
-data/2020_data_files/
-data/mens_data_files_stage_02/
-data/mens_play_by_play_stage_02/
+data/2020_challenge_data/
