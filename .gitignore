@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 # Large files
-data/2020_challenge_data/
+data/ncaa_march_madness_2020_data/
+data/ncaa_march_madness_2021_data/
+data/initial_data/
